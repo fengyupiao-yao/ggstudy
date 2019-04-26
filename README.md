@@ -1,2 +1,2 @@
-# gitstudy
-git cmd study
+# ggstudy
+./git/xx: git cmd study
